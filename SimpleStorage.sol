@@ -3,15 +3,6 @@
 // define solidity version at top always. ^0.60 means all 0.6 versions. 0.6 means just 0.6.
 pragma solidity >= 0.6.0 <0.9.0;
 // define contract-- like a class in OOP
-// contract SimpleStorage {
-    // unsigned integer 256 bits
-   // uint256 favoriteNumber = 5;
-    //bool favoriteBool = true;
-    // string  favoriteString = "String";
-    // int256 favInt = -5;
-    // address ethAddress = 0x723823;
-    //bytes32 favBytes = 'cat'
-//}
 
 contract SimpleStorage {
     // unsigned integer 256 bits; initialized to 0
